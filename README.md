@@ -2,6 +2,8 @@
 
 ### A book club blog built using Next.Js, React, GraphQL, and Sass.
 
+See it here! https://tinybookclub.netlify.app/
+
 ## Commands
 
 ```
